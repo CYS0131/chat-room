@@ -1,0 +1,20 @@
+{
+  "name": "chat-room",
+  "version": "0.0.2",
+  "description": "about chat-room",
+  "main": "<node index.js>",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3",
+    "mocha": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "chia_yu_su",
+  "license": "ISC",
+  "keywords": [
+    "chat"
+  ]
+}
